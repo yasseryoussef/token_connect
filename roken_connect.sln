@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "roken_connect", "roken_connect\roken_connect.csproj", "{7104F6CA-2469-45F0-BB8C-09AACADB53F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7104F6CA-2469-45F0-BB8C-09AACADB53F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7104F6CA-2469-45F0-BB8C-09AACADB53F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7104F6CA-2469-45F0-BB8C-09AACADB53F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7104F6CA-2469-45F0-BB8C-09AACADB53F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B172A893-1B39-4C74-8A0F-9ADB7027ED0A}
+	EndGlobalSection
+EndGlobal
